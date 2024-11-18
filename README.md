@@ -23,6 +23,15 @@ Improved code quality: Code review features, often integrated with version contr
 
 Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
 
+Setting up a New Repository on GitHub
+Create a GitHub account: If you don’t already have one, sign up for a free account on github.com.
+Create a new repository: Click the “+” button in the top right corner and select “New repository.”
+Name your repository: Choose a descriptive name (e.g., “my-project”).
+Choose visibility: Decide whether you want a public or private repository (more on this later).
+Initialize with a README: It’s highly recommended to initialize the repository with a README file. This provides a starting point for documenting your project.
+Add a .gitignore (optional): This file specifies files and folders that Git should ignore (e.g., temporary files, build artifacts).
+Choose a license (optional): A license defines how others can use your code.
+Key decisions during setup include repository visibility, including a README, using a .gitignore, and choosing a license.
 Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 Importance of the README File
 The README is the front door of your project. It’s the first thing people see when they visit your repository. A well-written README should include:
