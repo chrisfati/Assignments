@@ -51,6 +51,13 @@ Advantages: Code is only visible to you and those you grant access to, ideal for
 Disadvantages: Limited collaboration unless you explicitly add collaborators
 
 Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+Making Your First Commit
+Clone the repository: Copy the repository URL from GitHub and use the git clone command in your terminal to create a local copy.
+Make changes: Edit files in your local copy.
+Stage changes: Use git add to stage the files you want to include in the commit.
+Commit changes: Use git commit -m "Your commit message" to save the changes with a descriptive message.
+Push changes: Use git push to upload your commit to the GitHub repository.
+Commits are snapshots of your project at a specific point in time. They help track changes and manage different versions by recording the modifications made in each commit.
 
 How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 Branching in Git
